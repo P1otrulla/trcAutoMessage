@@ -1,0 +1,5 @@
+main: net.osnixer.automessage.AutoMessagePlugin
+version: '${project.version}'
+name: '${project.name}'
+authors: [Osnixer]
+api-version: 1.17
